@@ -1,0 +1,5 @@
+print("calculo diametro")
+raio = float(input( "insira o valor do raio:"))
+diametro= float( raio*2)
+circunferencia= float (diametro*3.14)
+print("O cumprimento da circunferencia é: ",circunferencia,)
